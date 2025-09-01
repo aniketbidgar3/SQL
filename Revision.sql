@@ -30,7 +30,7 @@ SELECT * FROM Student WHERE percentage>85;
 
 SELECT * FROM Student ORDER BY name;
 
-SELECT * FROM Student ORDER BY percentage DESC LIMIT 3;
+SELECT * FROM Student ORDER BY percentage DESC LIMIT 5;
 
 -- DROP TABLE Student;
 
